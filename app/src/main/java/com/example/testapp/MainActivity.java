@@ -47,7 +47,7 @@ import android.widget.Toast;
         myStructure.pushLast("Yes we can!");
         array.add(myStructure.peekLast());
 
-
+//Rioux comment for GH testing
 
         newList.setAdapter(array);
     }
