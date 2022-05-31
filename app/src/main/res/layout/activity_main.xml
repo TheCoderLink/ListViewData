@@ -9,5 +9,5 @@
     <ListView
         android:id="@+id/ListView1"
         android:layout_width="413dp"
-        android:layout_height="300dp" />
+        android:layout_height="730dp" />
 </LinearLayout>
