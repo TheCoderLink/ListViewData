@@ -46,8 +46,14 @@ import android.widget.Toast;
         array.add(myStructure.peekLast());
         myStructure.pushLast("Yes we can!");
         array.add(myStructure.peekLast());
+        myStructure.pushLast("Awesome element I added right now.");
+        array.add(myStructure.peekLast());
+        myStructure.pushLast("Don't look at this.");
+        array.add(myStructure.peekLast());
+        myStructure.pushLast("Don't look at this either.");
+        array.add(myStructure.peekLast());
 
-//Rioux comment for GH testing
+        //Rioux comment for GH testing
 
         newList.setAdapter(array);
     }
