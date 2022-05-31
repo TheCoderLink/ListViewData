@@ -6,8 +6,8 @@
      android:layout_height="match_parent"
      tools:context=".MainActivity">
 
-     <ListView
-         android:layout_width="413dp"
-         android:layout_height="300dp"
-         android:id="@+id/ListView1"/>
- </LinearLayout>
+    <ListView
+        android:id="@+id/ListView1"
+        android:layout_width="413dp"
+        android:layout_height="300dp" />
+</LinearLayout>
